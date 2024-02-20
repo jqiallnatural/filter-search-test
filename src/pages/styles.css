@@ -1,0 +1,11 @@
+.items__page {
+    display:grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 2rem;
+    margin: 2rem;
+}
+
+.title__product {
+    padding-bottom: 1rem;
+    font-weight: bold;
+}
